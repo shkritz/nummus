@@ -2237,8 +2237,8 @@ Adresse: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 20034 or testnet: 120034)</source>
-        <translation>Lyt til forbindelser på &lt;port&gt; (standard: 20034 eller testnetværk: 120034)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 5493 or testnet: 15493)</source>
+        <translation>Lyt til forbindelser på &lt;port&gt; (standard: 5493 eller testnetværk: 15493)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2272,8 +2272,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9332 or testnet: 19332)</source>
-        <translation>Lyt til JSON-RPC-forbindelser på &lt;port&gt; (standard: 9332 eller testnetværk: 19332)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 5492 or testnet: 15492)</source>
+        <translation>Lyt til JSON-RPC-forbindelser på &lt;port&gt; (standard: 5492 eller testnetværk: 15492)</translation>
     </message>
     <message>
         <location line="+37"/>

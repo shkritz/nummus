@@ -50,10 +50,10 @@ reachable from the Tor network. Add these lines to your /etc/tor/torrc (or equiv
 config file):
 
   HiddenServiceDir /var/lib/tor/nummus-service/
-  HiddenServicePort 20034 127.0.0.1:20034
+  HiddenServicePort 5493 127.0.0.1:5493
 
 The directory can be different of course, but (both) port numbers should be equal to
-your nummusd's P2P listen port (20034 by default).
+your nummusd's P2P listen port (5493 by default).
 
 -externalip=X   You can tell nummus about its publicly reachable address using
                 this option, and this can be a .onion address. Given the above
@@ -83,7 +83,7 @@ specify:
 
   ./nummusd ... -discover
 
-and open port 20034 on your firewall (or use -upnp).
+and open port 5493 on your firewall (or use -upnp).
 
 If you only want to use Tor to reach onion addresses, but not use it as a proxy
 for normal IPv4/IPv6 communication, use:
