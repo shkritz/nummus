@@ -2232,8 +2232,8 @@ Adresa:%4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 9333 or testnet: 19333)</source>
-        <translation>Slušaj na &lt;port&gt;u (default: 9333 ili testnet: 19333)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 20034 or testnet: 120034)</source>
+        <translation>Slušaj na &lt;port&gt;u (default: 20034 ili testnet: 120034)</translation>
     </message>
     <message>
         <location line="+5"/>

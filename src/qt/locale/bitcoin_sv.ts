@@ -2238,8 +2238,8 @@ Adress: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 9333 or testnet: 19333)</source>
-        <translation>Lyssna efter anslutningar på &lt;port&gt; (förvalt: 9333 eller testnet: 19333)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 20034 or testnet: 120034)</source>
+        <translation>Lyssna efter anslutningar på &lt;port&gt; (förvalt: 20034 eller testnet: 120034)</translation>
     </message>
     <message>
         <location line="+5"/>
