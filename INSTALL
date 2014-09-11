@@ -1,9 +1,9 @@
-Building Litecoin
+Building Nummus
 
-See doc/readme-qt.rst for instructions on building Litecoin-Qt,
+See doc/readme-qt.rst for instructions on building Nummus-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Litecoin.
+implementation of Nummus.
 
 See doc/build-*.txt for instructions on building nummusd,
 the intended-for-services, no-graphical-interface, reference
-implementation of Litecoin.
+implementation of Nummus.

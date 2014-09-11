@@ -15,16 +15,16 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Litecoin-Qt</string>
+	<string>Nummus-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.nummus.Litecoin-Qt</string>
+	<string>org.nummus.Nummus-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.nummus.LitecoinPayment</string>
+            <string>org.nummus.NummusPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
               <string>nummus</string>
